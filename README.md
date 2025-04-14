@@ -14,9 +14,9 @@
         <p>
             <strong>
                 Computer Science Student, Back-End Engineer, Problem Solver, Freelancer, and Open-Source Enthusiast.<br><br>
-                I specialize in .NET Core and Microsoft SQL Server and I have experience working with Angular. Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.<br><br>
-                I am passionate about learning .NET, all Back-End Technologies, Web 3, Blockchain, Linux, Virtualization, Cloud Computing, and DevOps.<br><br>
-                Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
+                I have strong skills in .NET and Microsoft SQL Server, along with experience using alternative databases like SQLite, MySQL, and MongoDB for data storage.<br>
+                I routinely work with Entity Framework, adopting the Code First approach for efficient database management. Additionally, I am proficient in ASP.NET Core <br>
+                for developing REST APIs and MVC applications, and I possess basic Docker skills for containerization and deployment.
             </strong>
         </p>
         <ul>
