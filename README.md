@@ -14,8 +14,8 @@
         <p>
             <strong>
                 Computer Science Student, Back-End Engineer, Problem Solver, Freelancer, and Open-Source Enthusiast.<br><br>
-                I have strong skills in .NET and Microsoft SQL Server, along with experience using alternative databases like SQLite, MySQL, and MongoDB for data storage.<br>
-                I routinely work with Entity Framework, adopting the Code First approach for efficient database management. Additionally, I am proficient in ASP.NET Core <br>
+                I have strong skills in .NET and Microsoft SQL Server, along with experience using alternative databases like SQLite, MySQL, and MongoDB for data storage.
+                I routinely work with Entity Framework, adopting the Code First approach for efficient database management. Additionally, I am proficient in ASP.NET Core 
                 for developing REST APIs and MVC applications, and I possess basic Docker skills for containerization and deployment.
             </strong>
         </p>
