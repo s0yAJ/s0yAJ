@@ -34,6 +34,8 @@
     <a href="https://getbootstrap.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="40" height="40"/></a> 
     <a href="https://visualstudio.microsoft.com/en/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" width="40" height="40"/></a>
     <a href="https://code.visualstudio.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="40" height="40"/></a>
+    <a href="https://developer.android.com/studio?hl=en-419"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" width="40" height="40"/></a>
+    <a href="https://www.mysql.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="40" height="40"/></a>
     <a href="https://sqlite.org/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" width="40" height="40"/></a>
     <a href="https://www.microsoft.com/es-es/sql-server/sql-server-downloads"><img src="https://img.icons8.com/?size=48&id=laYYF3dV0Iew&format=png" width="40" height="40"/></a>
     <a href="https://swagger.io/"><img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-halz44im.png" width="40" height="40"/></a>
