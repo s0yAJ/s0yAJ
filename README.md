@@ -22,17 +22,24 @@
         </p>
        <h3 align="left">Languages: </h3>
 <p align="left"> 
-    <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-     <a href="https://dotnet.microsoft.com/es-es/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" alt="csharp" width="40" height="40"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" alt="flutter" width="40" height="40"/> </a> 
+    <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+    <a href="https://dotnet.microsoft.com/es-es/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" alt="csharp" width="40" height="40"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+    <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" alt="flutter" width="40" height="40"/> </a> 
          <p/>
 <h3 align="left">Tools: </h3>
 <p align="left">
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="docker" width="40" height="40"/> </a>
-    <a href="https://skillicons.dev"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="40" height="40" /></a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-     <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="csharp" width="40" height="40"/> </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="docker" width="40" height="40"/> </a>
+    <a href="https://getbootstrap.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="40" height="40"/></a> 
+    <a href="https://visualstudio.microsoft.com/en/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" width="40" height="40"/></a>
+    <a href="https://code.visualstudio.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="40" height="40"/></a>
+    <a href="https://sqlite.org/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" width="40" height="40"/></a>
+    <a href="https://www.microsoft.com/es-es/sql-server/sql-server-downloads"><img src="https://img.icons8.com/?size=48&id=laYYF3dV0Iew&format=png" width="40" height="40"/></a>
+    <a href="https://swagger.io/"><img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-halz44im.png" width="40" height="40"/></a>
+    <a href="https://insomnia.rest/download"><img src="https://static-00.iconduck.com/assets.00/insomnia-icon-512x512-558vqlbn.png" width="40" height="40"/></a> 
+    <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="csharp" width="40" height="40"/> </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
 </p>
 
